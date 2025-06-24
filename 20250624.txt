@@ -1,0 +1,23 @@
+filezilla - 서버
+
+주니어에게 권한 부여할 수 있나?===>>특정 디렉토리 지우게? 안된다..
+파일 올리고 
+
+main.html
+main002.html
+===>>
+
+
+깃  깃허브
+git  github
+
+깃 - 깃을 사용할 수 있도록 설치해주는 프로그램
+
+깃허브 - 프로젝트를 진행할 때 
+
+cli 환경 ==>>Command Line Interface
+
+
+nickname email 반드시 기억
+
+new  --->>repository name---->>create repository
